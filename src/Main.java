@@ -27,3 +27,20 @@ public class Main {
         }
     }
 }
+
+/* The execution result:
+ *
+ * Let's see what our animals can do:
+ * Cat can run
+ * Dog can run
+ * Frog can jump
+ * Shark can swim really fast
+ * Sparrow can fly
+ *
+ * Now let's see what they can say:
+ * Meow
+ * Bark
+ * Croak
+ * Some shark's sounds
+ * Tweet
+ */
